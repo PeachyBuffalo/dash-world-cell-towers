@@ -7,3 +7,4 @@ dask-worker-space/
 /dask/work-dir/
 /work-dir/
 *.lock
+*.venv/
